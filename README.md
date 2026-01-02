@@ -1,13 +1,14 @@
-# 🚀 Hi, I'm Augusto Araujo | Senior Software Engineer
+# 🚀 Hi, I'm Augusto Araujo | Software Engineer
 
-### 🎓 Master of Engineering & Solution Architect
+### 🎓 Engineering & Solution Architect
 I am a results-driven Engineer with over 10 years of experience building scalable web architectures and custom administrative systems. I specialize in bridging the gap between complex business logic and high-performance user interfaces.
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
 
-- **Frontend:** Vue.js (Expert), React, Next.js, Tailwind CSS, Vuetify.
+- **Frontend:** Vue.js (Expert), Tailwind CSS, Tailwind CSS.
+.
 - **Backend:** Node.js, PHP, REST APIs.
 - **CMS:** Bespoke WordPress Engineering (Custom Themes & Plugins).
 - **Databases:** PostgreSQL, MySQL, SQL Server.
