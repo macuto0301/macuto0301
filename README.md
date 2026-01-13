@@ -18,7 +18,7 @@ I am a results-driven Engineer with over 10 years of experience building scalabl
 
 ### 📂 Featured Projects
 
-- **[Periodentod.pro](https://periodentod.pro/):** Healthcare SPA built with Vue.js focused on instant navigation and modular architecture.
+- **[Periodent.com.ve](https://periodent.com.ve/):** Healthcare SPA built with Vue.js focused on instant navigation and modular architecture.
 - **[Offerly.tech](https://offerly.tech/):** Custom WordPress ecosystem with bespoke plugin development for interview experience management.
 
 ---
