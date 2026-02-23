@@ -48,8 +48,6 @@ Aplicación SaaS desarrollada como SPA en **Vue.js** para la gestión de clínic
 Plataforma de gestión de contenidos construida sobre **WordPress**. Incluye el desarrollo de temas y plugins a medida para funcionalidades específicas, con un fuerte énfasis en la optimización de consultas MySQL y prácticas de SEO on-page.
 `PHP` `WordPress` `MySQL` `SEO` `Plugin Development` `Custom Theme`
 
-*(Si tienes otros proyectos, como los de tus cursos de AWS, este es un excelente lugar para añadirlos)*
-
 ---
 
 ### 📚 Formación y Cursos Relevantes
