@@ -63,13 +63,6 @@ Plataforma de gestión de contenidos construida sobre **WordPress**. Incluye el 
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Augusto](https://github-readme-stats.vercel.app/api?username=macuto0301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=macuto0301&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Conectemos
 
 *   **Portafolio:** [augustoaraujo.dev](https://augustoaraujo.dev)
