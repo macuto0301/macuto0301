@@ -40,7 +40,7 @@ Soy un Ingeniero de Computación con más de 10 años de experiencia en el desar
 
 ### 🚀 Proyectos Destacados
 
-#### [Periodont](https://periodont.com.ve/) — Plataforma SaaS para Clínicas Odontológicas (2023-2024)
+#### [Periodent](https://periodent.com.ve/) — Plataforma SaaS para Clínicas Odontológicas (2023-2024)
 Aplicación SaaS desarrollada como SPA en **Vue.js** para la gestión de clínicas. Enfocada en un alto rendimiento, una experiencia de usuario fluida y la implementación de APIs para el manejo de datos clínicos.
 `Vue.js` `Vue Router` `Pinia` `Node.js` `REST API` `SPA`
 
