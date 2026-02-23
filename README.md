@@ -44,7 +44,7 @@ Soy un Ingeniero de Computación con más de 10 años de experiencia en el desar
 Aplicación SaaS desarrollada como SPA en **Vue.js** para la gestión de clínicas. Enfocada en un alto rendimiento, una experiencia de usuario fluida y la implementación de APIs para el manejo de datos clínicos.
 `Vue.js` `Vue Router` `Pinia` `Node.js` `REST API` `SPA`
 
-#### [Offerty](https://offerly.tech/) — Plataforma CMS Personalizada (2023)
+#### [Offerty](https://offerly.tech/) — Plataforma CMS Personalizada (2026)
 Plataforma de gestión de contenidos construida sobre **WordPress**. Incluye el desarrollo de temas y plugins a medida para funcionalidades específicas, con un fuerte énfasis en la optimización de consultas MySQL y prácticas de SEO on-page.
 `PHP` `WordPress` `MySQL` `SEO` `Plugin Development` `Custom Theme`
 
